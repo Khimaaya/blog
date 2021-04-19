@@ -1,0 +1,20 @@
+body {
+    background-color: aqua ;
+        text-align:center;
+}
+
+div {
+    margin-top: 10px;
+}
+
+.outer {
+    margin-right: 25px; margin-left:25px;
+}
+
+.image {
+    justify-content: center;
+}
+
+img {
+    width: 200px;
+}
